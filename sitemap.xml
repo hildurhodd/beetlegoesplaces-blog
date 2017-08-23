@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://beetlegoesplaces.com/blog/beetle-goes-to-lagrasse/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://beetlegoesplaces.com/blog/beetle-goes-to-olonzac/</loc>
     <lastmod>2017-08-17T00:00:00+00:00</lastmod>
   </url>
@@ -29,13 +34,13 @@
   
   <url>
     <loc>http://beetlegoesplaces.com/</loc>
-    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://beetlegoesplaces.com/blog/</loc>
-    <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
