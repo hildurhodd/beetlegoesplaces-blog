@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://beetlegoesplaces.com/blog/mot2017/</loc>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://beetlegoesplaces.com/blog/beetle-goes-to-narbonne/</loc>
     <lastmod>2017-10-22T00:00:00+00:00</lastmod>
   </url>
@@ -53,14 +58,22 @@
   </url>
   
   <url>
+    <loc>http://beetlegoesplaces.com/blog/france-2017/</loc>
+  </url>
+  
+  <url>
+    <loc>http://beetlegoesplaces.com/blog/iceland-2017/</loc>
+  </url>
+  
+  <url>
     <loc>http://beetlegoesplaces.com/</loc>
-    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://beetlegoesplaces.com/blog/</loc>
-    <lastmod>2017-10-22T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
